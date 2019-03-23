@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Twenty Nineteen Starter`,
-    description: `Gatsby starter site for Twenty Nineteen Gatsby Theme.`,
-    author: `@muhsinlk`,
+    title: `Rad Rank`,
+    description: `Digital Marketing and SEO for people who piss excellence.`,
+    author: `@dylanhowell`,
     wordPressUrl: `https://radrank.com`
   },
   __experimentalThemes: [
